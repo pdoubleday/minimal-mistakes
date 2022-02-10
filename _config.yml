@@ -229,6 +229,12 @@ about:
 cv:
   type: liquid
   path: /cv/
+publications:
+  type: liquid
+  path: /publications/
+teaching:
+  type: liquid
+  path: /publications/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
