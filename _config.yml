@@ -104,9 +104,7 @@ analytics:
 author:
   name             : "Peter Doubleday"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Fellow
-  ETH Zurich
-  Institute of Molecular Systems Biology"
+  bio              : "Postdoctoral Fellow  ETH Zurich  Institute of Molecular Systems Biology"
   location         : "Zurich"
   email            : "doubleday@imsb.biol.ethz.ch"
   links:
