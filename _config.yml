@@ -105,24 +105,24 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:oubleday@imsb.biol.ethz.ch"
+      url: "mailto:oubleday@imsb.biol.ethz.ch"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://imsb.ethz.ch/research/zamboni/people/pd.html"
+      url: "https://imsb.ethz.ch/research/zamboni/people/pd.html"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
 
 # Site Footer
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/peter-doubleday-963477207/"
+      url: "https://www.linkedin.com/in/peter-doubleday-963477207/"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/pdoubleday"
+      url: "https://github.com/pdoubleday"
 
 
 # Reading Files
