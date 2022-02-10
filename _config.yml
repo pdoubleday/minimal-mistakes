@@ -104,7 +104,9 @@ analytics:
 author:
   name             : "Peter Doubleday"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Fellow ETH Zurich Institute of Molecular Systems Biology"
+  bio              : "Postdoctoral Fellow
+  ETH Zurich
+  Institute of Molecular Systems Biology"
   location         : "Zurich"
   email            : "doubleday@imsb.biol.ethz.ch"
   links:
@@ -123,22 +125,11 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: ""
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      # url: "https://www.linkedin.com/in/peter-doubleday-963477207/"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://github.com/pdoubleday"
 
 
 # Reading Files
