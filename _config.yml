@@ -226,7 +226,7 @@ about:
   path: /about/
 cv:
   type: liquid
-  path: /cv.html/
+  path: /cv/
 publications:
   type: liquid
   path: /publications/
