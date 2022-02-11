@@ -101,7 +101,7 @@ author:
   avatar           : path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral Fellow<br/>ETH Zurich<br/>Institute of Molecular Systems Biology"
   location         : "Zurich"
-  email            : "doubleday@imsb.biol.ethz.ch"
+  email            : #"doubleday@imsb.biol.ethz.ch"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -109,9 +109,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://imsb.ethz.ch/research/zamboni/people/pd.html"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+
 
 # Site Footer
 footer:
@@ -120,9 +118,6 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/peter-doubleday-963477207/"
 
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pdoubleday"
 
 
 # Reading Files
