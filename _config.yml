@@ -106,7 +106,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:oubleday@imsb.biol.ethz.ch"
-    - label: "Website"
+    - label: "ETHZ Website"
       icon: "fas fa-fw fa-link"
       url: "https://imsb.ethz.ch/research/zamboni/people/pd.html"
     - label: "Google Scholar"
@@ -226,7 +226,7 @@ about:
   path: /about/
 cv:
   type: liquid
-  path: /cv/
+  path: /cv.html/
 publications:
   type: liquid
   path: /publications/
