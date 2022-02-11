@@ -109,6 +109,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://imsb.ethz.ch/research/zamboni/people/pd.html"
+    - label: "Scholar"
+      icon: "fas fa-fw fa-scholar"
+      url: "https://scholar.google.com/citations?user=fT6dfBIAAAAJ&hl=en"
 
 
 # Site Footer
