@@ -5,7 +5,7 @@ title: "Articles"
 
 18. Zhu W, Butrin A, Melani R, **Doubleday PF**, Ferreira G, Tavares, Maurício T, Habeeb MT; Beaupre B, Kelleher NL, Moran G, Liu, D, Silverman RB “Rational Design, Synthesis, and Mechanism of (3S,4R)-3-Amino-4-(difluoromethyl)cyclopent-1-ene-1-carboxylic Acid Employing a Second Deprotonation Strategy for Selectivity of Human Ornithine Aminotransferase over GABA Aminotransferase” (in review, JACS).
 
-17. Schastnaya E, Nakic ZR, Gruber CH, **Doubleday PF**, Krishnan A, Johns NI, Park J, Wang HH, Sauer U."Extensive regulation of enzyme activity by phosphorylation in Escherichia coli" (**Nat Com**; PMID: 34561442).
+17. Schastnaya E, Nakic ZR, Gruber CH, **Doubleday PF**, Krishnan A, Johns NI, Park J, Wang HH, Sauer U."Extensive regulation of enzyme activity by phosphorylation in Escherichia coli" (**Nat Comm 2021**; PMID: 34561442).
 
 16. **Doubleday PF**, Fornelli L, Ntia I, Kelleher NL."Oncogenic KRAS creates an aspartate metabolism signature in colorectal cancer cells" (**FEBS 2021**; PMID: 34227245). 
 
@@ -15,7 +15,7 @@ title: "Articles"
 
 13. **Doubleday PF<sup>&</sup>**, Zhu W<sup>&</sup>, Butrin A<sup>&</sup>, Weerawarna P, Melani RD, Catlin DS, Dwight TA, Lui D, Kelleher NL, Silverman RB."Remarkable, Unexpected Mechanism for (S)-3-Amino-4-(Difluoromethylene)cyclohex-1-Ene-1-Carboxylic Acid as a Selective Inactivator of Human Ornithine Aminotransferase" (**JACS 2021**; PMID: 34014654).
 
-12. Zhu W, **Doubleday PF**, Catlin DS, Butrin A, Weerawarna P, Shen S, Kelleher NL, Liu D, Silverman RB. “A Remarkable Difference That One Fluorine Atom Confers on the Mechanisms of Inactivation of Human Ornithine Aminotransferase by Two Cyclohexene Analogues of γ-Aminobutyric Acid” (JACS 2020; PMID: 12345678).
+12. Zhu W, **Doubleday PF**, Catlin DS, Butrin A, Weerawarna P, Shen S, Kelleher NL, Liu D, Silverman RB. “A Remarkable Difference That One Fluorine Atom Confers on the Mechanisms of Inactivation of Human Ornithine Aminotransferase by Two Cyclohexene Analogues of γ-Aminobutyric Acid” (**JACS 2020**; PMID: 12345678).
 
 
 11. Shen S, **Doubleday PF**, Catlin DS, Butrin A, Weerawarna P, Zhu W, Kelleher NL, Liu D,  Silverman RB.“Mechanism-based Discovery of New 3-Amino-4-Halocyclopentene Carboxylic Acids as Inactivators of GABA Aminotransferase” (**ACS Med Chem Let 2020**; PMID: 12345678). 
@@ -28,9 +28,9 @@ title: "Articles"
 
 7. Ntai I, Fornelli L, DeHart CJ, Hutton JE, **Doubleday PF**, LeDuc RD, van Nispen AJ, Fellers RT, Whiteley G, Boja ES, Rodriguez H, Kelleher NL. “Precise characterization of KRAS4b proteoforms in human colorectal cells and tumors reveals mutation /modification cross-talk” (**PNAS 2018**; PMID: 29610327).
 
-6. Fornelli L, Toby TK, Schachner LF, **Doubleday PF**, Srzentić K, DeHart CJ, Kelleher NL. “Top-down proteomics: Where we are, where we are going?” (**J Proteomics**. 2018; PMID: 28188863).
+6. Fornelli L, Toby TK, Schachner LF, **Doubleday PF**, Srzentić K, DeHart CJ, Kelleher NL. “Top-down proteomics: Where we are, where we are going?” (**J Proteomics 2018**; PMID: 28188863).
 
-5. Skinner OS, Haverland NA, Fornelli L, Melani RD, Do Vale LHF, Seckler HS, **Doubleday PF**, Schachner LF, Srzentić K, Kelleher NL, Compton PD. “Top-down characterization of endogenous protein complexes with native proteomics” (**Nat Chem Biol**. 2018; PMID: 29131144).
+5. Skinner OS, Haverland NA, Fornelli L, Melani RD, Do Vale LHF, Seckler HS, **Doubleday PF**, Schachner LF, Srzentić K, Kelleher NL, Compton PD. “Top-down characterization of endogenous protein complexes with native proteomics” (**Nat Chem Biol 2018**; PMID: 29131144).
 
 4. Compton PD, Skinner OS, Haverland N, Fornelli L, **Doubleday PF**, Seckler H, Schachner L, Kelleher NL. "Native Proteomics: A New Approach to Protein Complex Discovery and Characterization" (**2017 FASEB**).
 
